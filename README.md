@@ -11,6 +11,7 @@ Projeto criado como forma didática para fortificar o conhecimento de ReactJS e 
 Interessante: Conseguimos também acessar, através de um link, o respectivo trailer do filme no youtube. Tudo isso feito dinamicamente e de acordo com os dados que estão armazenados em Storage Local.
 
 - Fiz o deploy do projeto em https://filmes-favoritos.netlify.app/ (Para quem interessar, é uma hospedagem gratuíta e muito boa)
+- Guia que fiz para o deploy da build dessa aplicação: https://thiagopetherson.medium.com/fazendo-deploy-de-uma-aplica%C3%A7%C3%A3o-desenvolvida-com-reactjs-7fcc1b92752b
 
 ![image](https://user-images.githubusercontent.com/44420212/137805543-6a1c541d-a730-4f70-b4b0-b47a4d942889.png)
 
